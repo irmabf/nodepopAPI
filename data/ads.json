@@ -1,0 +1,16 @@
+[
+	{"_id":"58c039938060197ca0b52d4d",
+		"name":"Macbook Pro 2015",
+		"forSale":true,
+    "photo":"d20ca916-af2a-4a98-96a1-3e320df006f9.jpeg",
+    "tags":["work","mobile"],
+  	"author":"58c039018060197ca0b52d4c"		
+  },
+  {"_id":"58c03ada8060197ca0b52d51",
+		"name":"Kindle",
+		"forSale":true,
+    "photo":"a10ca916-af2a-4a98-96a1-3e320df006f9.jpeg",
+    "tags":["travel","mobile"],
+  	"author":"108039018060197ca0b52d4c"	
+	}
+]	

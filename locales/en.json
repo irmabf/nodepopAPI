@@ -1,0 +1,9 @@
+{
+  "USER_NOT_FOUND": "User not found",
+  "INVALID_CREDENTIALS": "Invalid credentials",
+  "NO_TOKEN_PROVIDED":"Invalid token",
+  "EMAIL_NOT_EXISTS":"That email isn´t in our database",
+  "EMAIL_WRONG_FORMAT":"Must introduce a valid email",
+  "PASSWORD_NOT_EXISTS":"Password is required",
+  "NAME_NOT_EXISTS":"Name is required"
+}

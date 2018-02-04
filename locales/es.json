@@ -1,0 +1,9 @@
+{
+  "USER_NOT_FOUND": "El usuario no existe en nuestra base de datos",
+  "INVALID_CREDENTIALS": "Credenciales incorrectas",
+  "NO_TOKEN_PROVIDED":"No ha aportado token",
+  "EMAIL_NOT_EXISTS":"El email no existe en nuestra base de datos",
+  "EMAIL_WRONG_FORMAT":"Debe introducir un formato de email valido",
+  "PASSWORD_NOT_EXISTS":"Se require password",
+  "NAME_NOT_EXISTS":"Se requiere nombre"
+}

@@ -1,0 +1,13 @@
+[
+  {"_id":"58c039018060197ca0b52d4c",
+    "name":"Jon Snow",
+    "email":"snow@example.com",
+    "password":"12345we"
+  },
+  {
+    "_id":"108039018060197ca0b52d4c",
+    "name":"Pepito Grillo",
+    "email":"grillo@example.com",
+    "password":"r443s"
+  }
+]
